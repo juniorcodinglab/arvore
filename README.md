@@ -1,2 +1,4 @@
-# arvore
-Este projeto tem como objetivo criar uma interface interativa de estrutura de árvore.
+## Arvore
+
+- npm install --save-dev sass
+
